@@ -1,0 +1,88 @@
+{
+  "student": [
+    {
+      "id": "101",
+      "name": "John Doe",
+      "age": 20,
+      "gender": "Male",
+      "department": "Computer Science"
+    },
+    {
+      "id": "102",
+      "name": "Jane Smith",
+      "age": 22,
+      "gender": "Female",
+      "department": "Mathematics"
+    },
+    {
+      "id": "103",
+      "name": "Robert Brown",
+      "age": 21,
+      "gender": "Male",
+      "department": "Physics"
+    },
+    {
+      "id": "104",
+      "name": "Emily Davis",
+      "age": 23,
+      "gender": "Female",
+      "department": "Biology"
+    },
+    {
+      "id": "105",
+      "name": "Michael Johnson",
+      "age": 20,
+      "gender": "Male",
+      "department": "Engineering"
+    },
+    {
+      "id": "106",
+      "name": "Sophia Wilson",
+      "age": 22,
+      "gender": "Female",
+      "department": "Chemistry"
+    },
+    {
+      "id": "107",
+      "name": "Daniel Taylor",
+      "age": 24,
+      "gender": "Male",
+      "department": "Economics"
+    },
+    {
+      "id": "108",
+      "name": "Emma Moore",
+      "age": 21,
+      "gender": "Female",
+      "department": "Psychology"
+    },
+    {
+      "id": "109",
+      "name": "James Anderson",
+      "age": 23,
+      "gender": "Male",
+      "department": "Political Science"
+    },
+    {
+      "id": "110",
+      "name": "Olivia Thomas",
+      "age": 20,
+      "gender": "Female",
+      "department": "Computer Science"
+    },
+    {
+      "id": "111",
+      "name": "Liam Miller",
+      "age": 22,
+      "gender": "Male",
+      "department": "Physics"
+    },
+    {
+      "id": 112,
+      "name": "Anush Daivat",
+      "age": 23,
+      "gender": "Male",
+      "department": "Sant"
+    }
+  ]
+}
